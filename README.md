@@ -1,6 +1,6 @@
 # tflite-recommendation
 
-Тhis project was created as a result of a project assignment on the subject "intelligent mobile applications".
+Тhis project was created as a result of a project assignment on the subject "Intelligent mobile applications".
 
 The main focus is presenting a certain set of books from which the user will be able to choose the ones he likes, and then the software should make a book recommendation based on the selection.
 
