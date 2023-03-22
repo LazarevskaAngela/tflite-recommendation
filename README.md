@@ -9,4 +9,7 @@ Thanks to:
 Cai-Nicolas Ziegler, Sean M. McNee, Joseph A. Konstan, Georg Lausen; for providing the data set.
 
 An Android mobile application has been developed that recommends books using a machine learning module.
-As a newbie in the field of machine learning, I found TensorFlow very useful when integrating a model into an Android application.
+As a newbie in the field of machine learning, I found TensorFlow very useful when integrating a model into an Android application. Entire flow is based on the tutorial for recommendation system provided by TensorFlow (found on this link: https://www.tensorflow.org/lite/examples/recommendation/overview).
+
+Android application presents data in a recyclerview list and is designed by Google guidelines listed in materialdesign. TensorFlow sdk is "org.tensorflow:tensorflow-lite:2.2.0".
+
